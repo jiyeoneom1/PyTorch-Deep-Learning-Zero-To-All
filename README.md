@@ -1,1 +1,1 @@
-# jiyeoneom1-PyTorch-Deep-Learning-Zero-To-All-t
+# PyTorch-Deep-Learning-Zero-To-All
